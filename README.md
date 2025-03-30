@@ -4,10 +4,11 @@
 
 # Education Authority Northern Ireland (EANI)
 
-This proof-of-concept (PoC) will work with publicly available data from the [Deparment for Education (Northern Ireland)](https://www.education-ni.gov.uk) and [Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/get-started/microsoft-fabric-overview):
+This proof-of-concept (PoC) will work with publicly available data from the [Deparment for Education (Northern Ireland)](https://www.education-ni.gov.uk) and the data and analytics platform [Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/get-started/microsoft-fabric-overview):
 
 These labs will walk through downloading data and using various Microsoft Fabric components to load and manipulate the data such as: Data Pipelines, Notebooks, Lakehouses, Data Warehouses, and others such as AI Skill and GraphQL.
 
+Day 1 will focus on **School Attendance**.  Day 2 will be **School Enrolments** which will be a similar process.
 
 ## Labs
 
