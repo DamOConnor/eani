@@ -18,7 +18,7 @@ https://www.education-ni.gov.uk/articles/pupil-attendance
 - Pupil attendance 2021/22
 
 > [!NOTE]
-> The 2022/23 data is missing.  More files will be added later.
+> The 2022/23 data is missing.  More files will be added later once the import pipeline is setup.
 
 ![Download selected files](images/download-excel.png)
 
@@ -28,7 +28,7 @@ Spend some time analysing the folder and folder contents.
 
 ## Questions
 - How many files have been downloaded?
-- What type of files are they?
+- What type of files are they? (.csv, .xlsx, other?)
 - Are they all in the same format with the same headers?
 - Could this process be automated further?
 
