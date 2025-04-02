@@ -32,4 +32,5 @@ This will create a copy of the pipeline in the same workspace
 This will correct to its Unicode codepoint (`\u2021`)  after saving and re-opening the pipeline.
 
 ## Next Steps
+- [Lab 05 - Sample Notebooks](/labs/lab05/lab05.md)
 - [Home](README.md)
