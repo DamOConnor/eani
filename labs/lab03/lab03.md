@@ -98,6 +98,7 @@ Discuss why we have done this.
 ![Set variable](images/set-variable.png)
 
 15.  Save and run the pipeline.
+
 16.  Add and configure a **Copy** activity
 
 ## Questions
