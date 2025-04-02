@@ -101,6 +101,14 @@ Discuss why we have done this.
 
 16.  Add and configure a **Copy** activity
 
+17.  Configure the Source tab
+ - Connection: (your Lakehouse)
+
+18.  Configure the Sink tab
+
+> [!CAUTION]
+> Variables are not thread-safe inside a For Each loop.  Use them for debugging only.  If you need the variable expression simply use the expression directly in the property rather than referring to the variable.
+
 ## Questions
 - Discuss the lab.  What is the difference between the single and multiple copy?
 

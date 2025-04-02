@@ -24,15 +24,17 @@ Import the data to a Lakehouse
 4. [Lab 04 - Import to Data Warehouse using Data Pipeline](labs/lab04/lab04.md)  
 Import the data to a Data Warehouse
 
+5. [Lab 05 - Sample Notebooks](labs/lab05/lab05.md)
+
 ---
 ## Work in progress
 
 
-5. ~~Import using to Lakehouse using a Notebook
+6. ~~Import using to Lakehouse using a Notebook
 Import the data to a Data Warehouse  
 Connect to Data Warehouse from SSMS~~
 
-6. ~~Install Fabric Capacity Metrics app~~
+7. ~~Install Fabric Capacity Metrics app~~
 
 98. ~~Use AI Skill~~
 99. ~~Use GraphQL~~
