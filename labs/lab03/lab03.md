@@ -102,9 +102,10 @@ Discuss why we have done this.
 16.  Add and configure a **Copy** activity
 
 17.  Configure the Source tab
- - Connection: (your Lakehouse)
+- Work with instructor.  Use the `@item()` syntax to refer to the current item in the loop.
 
 18.  Configure the Sink tab
+- Work with instructor
 
 > [!CAUTION]
 > Variables are not thread-safe inside a For Each loop.  Use them for debugging only.  If you need the variable expression simply use the expression directly in the property rather than referring to the variable.
