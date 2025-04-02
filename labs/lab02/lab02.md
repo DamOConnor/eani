@@ -59,4 +59,4 @@ Spend some time analysing the Lakehouse Tables and folder sections.
 
 ## Next Steps
 - [Lab 03 - Import the data](/labs/lab03/lab03.md)
-- [Home](README.md)
+- [Home](/README.md)

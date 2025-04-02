@@ -34,4 +34,4 @@ Spend some time analysing the folder and folder contents.
 
 ## Next Steps
 - [Lab 02 - Set up Fabric](/labs/lab02/lab02.md)
-- [Home](README.md)
+- [Home](/README.md)

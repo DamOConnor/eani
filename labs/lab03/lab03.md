@@ -120,4 +120,4 @@ Write some SQL against the tables that have loaded.
 
 ## Next Steps
 - [Lab 04 - Import to Data Warehouse using Data Pipeline](/labs/lab04/lab04.md)
-- [Home](README.md)
+- [Home](/README.md)

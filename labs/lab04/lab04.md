@@ -33,4 +33,4 @@ This will correct to its Unicode codepoint (`\u2021`)  after saving and re-openi
 
 ## Next Steps
 - [Lab 05 - Sample Notebooks](/labs/lab05/lab05.md)
-- [Home](README.md)
+- [Home](/README.md)
